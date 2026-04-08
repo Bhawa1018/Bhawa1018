@@ -11,19 +11,7 @@
 - 💬 Ask me about **Java, Python or Web Design**
 - 📫 How to reach me: **bhawanthiweerasinghe9@gmail.com**
 
----
-<p align="center">
-  <!-- Top Languages Card - මෙය ඔබ පාවිච්චි කරන languages අනුව auto update වේ -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bhawa1018&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
-</p>
 
-<p align="center">
-  <!-- General Stats Card -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bhawa1018&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
-
-
----
 
 
 
