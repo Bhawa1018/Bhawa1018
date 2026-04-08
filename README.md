@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Advanced Web Development / AI**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Java, Python or Web Design**
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **bhawanthiweerasinghe9@gmail.com**
 
 ---
 
