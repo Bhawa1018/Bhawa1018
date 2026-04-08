@@ -1,11 +1,11 @@
-# Hi there, I'm Bhawa! 👋
+# Hi there, I'm Bhawanthi! 👋
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50" />
 </p>
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **[Project Name එක මෙතන දාන්න]**
+- 🔭 I’m currently working on Special Profile
 - 🌱 I’m currently learning **Advanced Web Development / AI**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Java, Python or Web Design**
@@ -13,7 +13,7 @@
 
 ---
 
-### 🛠 Tech Stack (මම දන්නා තාක්ෂණයන්)
+### 🛠 Tech Stack 
 <p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -25,7 +25,7 @@
 
 ---
 
-### 📊 GitHub Stats (මගේ දත්ත)
+### 📊 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bhawa1018&show_icons=true&theme=radical" alt="Bhawa's GitHub stats" />
