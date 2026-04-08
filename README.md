@@ -37,10 +37,8 @@
 
 ### 🤝 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bhawa1018" height="30" width="40" /></a>
-<a href="https://fb.com/YOUR_FB_ID" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Bhawa1018" height="30" width="40" /></a>
-<a href="https://instagram.com/YOUR_INSTA_ID" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Bhawa1018" height="30" width="40" /></a>
-</p>
+<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/bhawanthi-weerasinghe-b8a119218?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bhawa1018" height="30" width="40" /></a>
+
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Bhawa1018&label=Profile%20views&color=0e75b6&style=flat" alt="Bhawa1018" /> 
