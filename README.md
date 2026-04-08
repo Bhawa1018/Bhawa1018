@@ -22,10 +22,7 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bhawa1018&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhawa1018&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+
 ---
 
 
@@ -33,13 +30,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhawa1018&show_icons=true&theme=tokyonight" alt="Bhawa's GitHub stats" />
+  <!-- General Stats Card -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bhawa1018&show_icons=true&theme=tokyonight&hide_border=true" alt="Bhawa's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhawa1018&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bhawa1018&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-
 ---
 
 ### 🔥 Streak Stats
