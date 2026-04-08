@@ -12,13 +12,20 @@
 - 📫 How to reach me: **bhawanthiweerasinghe9@gmail.com**
 
 ---
-
-### 🛠 My Tech Stack (Auto-updated)
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhawa1018&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <!-- Top Languages Card - මෙය ඔබ පාවිච්චි කරන languages අනුව auto update වේ -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bhawa1018&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
 </p>
 
+<p align="center">
+  <!-- General Stats Card -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bhawa1018&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhawa1018&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
 ---
 
 
